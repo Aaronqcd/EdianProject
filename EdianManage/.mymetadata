@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="EdianManage"
+  id="myeclipse.1407124141483"
+  context-root="/EdianManage"
+  j2ee-spec="6.0"
+  archive="EdianManage.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
